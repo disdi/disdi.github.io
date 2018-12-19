@@ -3,7 +3,7 @@ name: Saket Sinha
 bio: Developer from India
 
 # twitter summary info
-#description: A blog about technology and stuff related
+description: Personal Webpage 
 
 # if it's an external image, update below for true
 # better with square images
@@ -13,17 +13,20 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+#resume: true
+#resume-external: true
+#resume-url: https://google.com/?q=my+resume
 
-url: https://disdi.github.io
+#url: https://disdi.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
+
+markdown: kramdown
+highlighter: rouge
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -43,13 +46,13 @@ permalink: /:title/
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: disdi
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: saket.sinha89@gmail.com
@@ -57,14 +60,14 @@ email: saket.sinha89@gmail.com
 authors:
     disdi:
         name: Saket Sinha
-        bio: A Man who travels the world eating noodles
+        bio: FOSS geek
         external-image: false
         picture: assets/images/profile.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
@@ -102,5 +105,5 @@ plugins:
   - jemoji
   - jekyll-admin
 
-jekyll-mentions:
-    base_url: https://github.com
+#jekyll-mentions:
+#    base_url: https://github.com

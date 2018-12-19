@@ -38,20 +38,20 @@ highlighter: rouge
 #  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
+facebook: saket.sinha.336
 #twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: www.linkedin.com/in/saket-sinha-nvidia/ 
+linkedin: saket-sinha-nvidia 
 # youtube: myyoutube
 # spotify: myspotify
 github: disdi
 # gitlab: mygitlab
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
+stackoverflow: 5717321
+quora: Saket-Sinha-4
+reddit: disdi89
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd

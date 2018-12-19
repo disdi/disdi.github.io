@@ -4,7 +4,7 @@
 ***
 
 <p align="center">
-    <img src="https://ibb.co/xCLtHXD" />
+    <img src="https://raw.githubusercontent.com/disdi/disdi.github.io/master/assets/screen-shot.png" />
 </p>
 
 ## What has inside

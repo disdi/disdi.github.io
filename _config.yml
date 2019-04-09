@@ -15,7 +15,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1m8XaNNDEKZlnAhJJ1UnZezbTkfGfqI_-/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1-PW6YagsSrXS7XUtyHIs94b8lZXicrCc/view?usp=sharing
 
 url: http://disdi.github.io
 # your url: http://USERNAME.github.io
@@ -43,7 +43,7 @@ highlighter: rouge
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: saket-sinha-nvidia 
+# linkedin: saket-sinha-nvidia
 # youtube: myyoutube
 # spotify: myspotify
 github: disdi

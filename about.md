@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image](https://ibb.co/xCltHXD)
 
-<p> Developer from India with 8 years experience in Embedded Systems, Machine Learning, Edge Computing</p>
+<p> Developer from India with 11 years experience in Embedded Systems, Machine Learning, Edge Computing</p>
 
 
 <h2>Skills</h2>
